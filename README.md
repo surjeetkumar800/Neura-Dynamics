@@ -1,16 +1,34 @@
-# React + Vite
+ask Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern task management dashboard built with React, Vite, and Tailwind CSS.
+Designed to feel like a real application, not just a web page.
 
-Currently, two official plugins are available:
+Clean UI, smooth interactions, and a scalable structure for future features.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
 
-## React Compiler
+⚡ Fast build with Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎨 Modern UI using Tailwind CSS
 
-## Expanding the ESLint configuration
+🌗 Light / Dark mode support
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧠 State management with Redux Toolkit
+
+🔄 Data fetching with React Query
+
+🧩 Component-based architecture
+
+📱 Fully responsive layout
+
+🚀 Deployed on Vercel
+
+📸 Screenshots
+<img width="1252" height="931" alt="image" src="https://github.com/user-attachments/assets/f3a8c34b-4bb7-4412-81b1-1cb20d85598e" />
+
+<img width="978" height="857" alt="image" src="https://github.com/user-attachments/assets/2b6010eb-4f95-4483-86dc-ad8f8e344c65" />
+
+
+
+
+
